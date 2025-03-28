@@ -1,6 +1,6 @@
 # Smart Calculator
 
-Smart Calculator is a Flutter-based application designed to perform advanced calculations with ease. This project serves as a learning tool and a practical implementation of Flutterfor building cross-platform mobile applications and DeepSeek AI API to perform calculations.
+Smart Calculator is a Flutter-based application designed to perform advanced calculations with ease. This project serves as a learning tool and a practical implementation of Flutter for building cross-platform mobile applications and OpenRouter API to perform calculations with DeepSeek.
 
 ## Features
 
